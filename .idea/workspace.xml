@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef04a126-0ce2-48ca-97b1-fa11d97b7e54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/Procfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/django_project/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="46" selection-start-column="46" selection-end-column="46" />
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -70,12 +71,6 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="django_project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="django_project" type="462c0819:PsiDirectoryNode" />
-              <item name="django_project" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -112,12 +107,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562427239264</updated>
-      <workItem from="1562427241485" duration="2683000" />
+      <workItem from="1562427241485" duration="2950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2683000" />
+    <option name="totallyTimeSpent" value="2950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="860" extended-state="6" />
@@ -165,7 +160,7 @@
     <entry file="file://$PROJECT_DIR$/django_project/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="46" selection-start-column="46" selection-end-column="46" />
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
         </state>
       </provider>
     </entry>
