@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef04a126-0ce2-48ca-97b1-fa11d97b7e54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_project/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_project/django_project/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/django_project/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,16 +21,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_project/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_project/django_project/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="82">
@@ -50,8 +48,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/django_project/django_project/settings.py" />
-        <option value="$PROJECT_DIR$/django_project/Procfile" />
         <option value="$PROJECT_DIR$/django_project/django_project/wsgi.py" />
+        <option value="$PROJECT_DIR$/django_project/Procfile" />
       </list>
     </option>
   </component>
@@ -119,12 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562427239264</updated>
-      <workItem from="1562427241485" duration="3457000" />
+      <workItem from="1562427241485" duration="3737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3457000" />
+    <option name="totallyTimeSpent" value="3737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1600" height="860" extended-state="6" />
@@ -162,13 +160,6 @@
     <entry file="file://$PROJECT_DIR$/django_project/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_project/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_project/django_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -180,6 +171,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_project/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
