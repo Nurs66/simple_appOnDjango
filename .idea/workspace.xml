@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef04a126-0ce2-48ca-97b1-fa11d97b7e54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/django_project/django_project/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/django_project/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="ef04a126-0ce2-48ca-97b1-fa11d97b7e54" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="801" />
     <option name="width" value="799" />
     <option name="height" value="859" />
@@ -133,18 +131,17 @@
       <option name="presentableId" value="Default" />
       <updated>1562427239264</updated>
       <workItem from="1562427241485" duration="4270000" />
-      <workItem from="1562560492190" duration="1818000" />
+      <workItem from="1562560492190" duration="2421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6088000" />
+    <option name="totallyTimeSpent" value="6691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1600" height="860" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-1" width="1600" height="860" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25289574" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25289574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -158,7 +155,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32938075" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32806325" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32806325" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
