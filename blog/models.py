@@ -2,7 +2,6 @@ from django.db import models
 from django.utils import timezone
 from django.contrib.auth.models import User
 from django.urls import reverse
-from PIL import Image
 
 
 class Post(models.Model):
@@ -17,21 +16,4 @@ class Post(models.Model):
     def get_absolute_url(self):
         return reverse('post-detail', kwargs={'pk': self.pk})
 
-
-# class PostImage(models.Model):
-#     image = models.ImageField(null=True, blank=True, upload_to='blog_images')
-#     post = models.ForeignKey(Post, on_delete=models.CASCADE)
-#
-#     def __str__(self):
-#         return f'{self.post.title}.jpg'
-#
-#     def save(self, *args, **kwargs):
-#         super().save()
-#
-#         img = Image.open(self.image.path)
-#
-#         if img.height > 400 or img.width > 680:
-#             output_size = (400, 680)
-#             img.thumbnail(output_size)
-#             img.save(self.image.path)
 

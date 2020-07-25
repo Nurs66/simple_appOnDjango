@@ -11,11 +11,3 @@ class PostForm(forms.ModelForm):
             'content': forms.Textarea(attrs={'class': 'form-control'}),
         }
 
-
-# class PostImageForm(forms.ModelForm):
-#     class Meta:
-#         model = PostImage
-#         fields = ['image', ]
-#         widgets = {
-#             'image': forms.ClearableFileInput(attrs={'class': 'form-control-file'}),
-#         }
